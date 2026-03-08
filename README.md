@@ -92,14 +92,3 @@ AgriScan follows a modern **Single Page Application (SPA)** architecture with a 
 
 ---
 
-## 🛡 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 📧 Contact
-
-**AgriScan Team** - [your-email@example.com]
-
-Project Link: [https://github.com/yourusername/agriscan](https://github.com/yourusername/agriscan)
